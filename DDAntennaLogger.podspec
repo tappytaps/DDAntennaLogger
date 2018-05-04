@@ -22,5 +22,5 @@ Pod::Spec.new do |s|
   s.source_files  = "DDAntennaLogger"
   s.requires_arc = true
   s.dependency "Antenna", "~> 2.0"
-  s.dependency "CocoaLumberjack""
+  s.dependency "CocoaLumberjack"
 end
